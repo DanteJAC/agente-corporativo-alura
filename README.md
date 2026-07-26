@@ -1,7 +1,5 @@
 # 🤖 Agente de IA Corporativo - Desafío Alura
-
-![Banner](https://via.placeholder.com/1200x300.png?text=Agente+de+IA+Corporativo+-+Alura+y+OCI)
-
+![Banner](https://dummyimage.com/1200x300/0f172a/ffffff.png&text=Agente+de+IA+Corporativo+-+Alura+y+OCI)
 Un **Agente de Inteligencia Artificial Corporativo** desarrollado como parte del desafío de Alura. Este proyecto implementa un sistema RAG (Generación Aumentada por Recuperación) que permite a los empleados de una empresa consultar información interna contenida en diversos formatos de documentos con alta precisión, citando siempre las fuentes.
 
 ## ✨ Características Principales
