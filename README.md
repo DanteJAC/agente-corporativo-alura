@@ -106,6 +106,9 @@ Para cumplir con el requerimiento de alta disponibilidad y acceso para todos los
 
 ## 🎥 Demostración
 
+**🟢 Enlace en vivo:** [http://136.248.244.148:8501](http://136.248.244.148:8501)  
+*(Nota: El servidor Oracle Cloud podría estar apagado o reiniciándose si intentas acceder meses después del desafío).*
+
 ![Demostración del Agente 1](assets/demo1.png)
 ![Demostración del Agente 2](assets/demo2.png)
 
