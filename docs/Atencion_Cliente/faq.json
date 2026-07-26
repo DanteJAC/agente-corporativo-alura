@@ -1,0 +1,20 @@
+{
+    "faq": [
+        {
+            "pregunta": "¿Qué pasa si no estoy en casa cuando llegue el paquete?",
+            "respuesta": "Realizamos 2 intentos de entrega. Luego, el paquete irá al CEDIS por 5 días hábiles. Si no lo recoges, volverá al remitente."
+        },
+        {
+            "pregunta": "¿Puedo cambiar la dirección de entrega una vez enviado?",
+            "respuesta": "Sí, a través de la app móvil, pero solo si el paquete no está en estatus 'En Reparto'. El cambio de dirección tiene un costo administrativo de $2.00 USD y retrasa la entrega 24 horas."
+        },
+        {
+            "pregunta": "¿Cuánto cuesta enviar un paquete de 10 kg?",
+            "respuesta": "Depende de la distancia. Un paquete estándar de 10 kg a nivel nacional cuesta aproximadamente $15.00 USD."
+        },
+        {
+            "pregunta": "¿Qué hago si mi paquete llega dañado?",
+            "respuesta": "No firmes de conformidad. Toma fotografías del empaque y del producto, y comunícate con atención al cliente antes de 24 horas para iniciar un reclamo."
+        }
+    ]
+}

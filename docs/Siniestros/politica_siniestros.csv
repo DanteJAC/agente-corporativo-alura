@@ -1,0 +1,5 @@
+Tipo_Seguro,Costo_Adicional,Porcentaje_Cobertura_Robo,Monto_Maximo_Danio,Tiempo_Resolucion_Dias
+Básico (Incluido),$0.00,50%,$50.00 USD,30
+Protección Total,$5.00 USD,100%,"$1,500.00 USD",15
+Carga Pesada / Industrial,$25.00 USD,100%,"$10,000.00 USD",20
+Electrónicos Frágiles,$15.00 USD,80%,"$3,000.00 USD",15
