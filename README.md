@@ -106,7 +106,8 @@ Para cumplir con el requerimiento de alta disponibilidad y acceso para todos los
 
 ## 🎥 Demostración
 
-*(Agrega aquí un GIF, video o captura de pantalla de la aplicación corriendo en tu servidor OCI).*
+![Demostración del Agente 1](assets/demo1.png)
+![Demostración del Agente 2](assets/demo2.png)
 
 ---
 
